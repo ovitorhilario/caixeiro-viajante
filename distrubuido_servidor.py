@@ -117,4 +117,4 @@ def tsp_distributed_server(cities_coords, num_workers, host='127.0.0.1', port=65
 
 if __name__ == "__main__":
     cities_data = get_cities(12)
-    tsp_distributed_server(cities_data, num_workers=3, host='127.0.0.1', port=65432)
+    tsp_distributed_server(cities_data, num_workers=2, host='127.0.0.1', port=65432)

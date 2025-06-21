@@ -1,10 +1,5 @@
 import math
 import itertools
-import time
-import socket
-import pickle
-import threading
-from concurrent.futures import ThreadPoolExecutor
 
 # Coordenadas das cidades (latitude, longitude)
 # Usamos um dicionário para facilitar o acesso
