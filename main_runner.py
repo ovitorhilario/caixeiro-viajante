@@ -26,9 +26,9 @@ def run_experiments():
         results_log.append({'version': 'parallel_threads', 'cities': num, 'time': time_par, 'distance': dist_par})
 
         # --- Simulação Distribuída ---
-        # Nota: Para executar, rode o servidor em um terminal e 4 clientes em outros 4 terminais.
-        # "1. Rode o servidor: python distrubuido_servidor.py")
-        # "2. Rode 4 workers: python distribuido_cliente.py")
+        # Nota: Para executar, rode o servidor em um terminal e 2 clientes em outros 2 terminais.
+        # "1. Rode o servidor: python distribuido_servidor.py")
+        # "2. Rode 2 workers: python distribuido_cliente.py")
 
     # --- Exportar Resultados ---
     print("\n--- Log de Resultados (JSON) ---")
