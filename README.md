@@ -17,7 +17,7 @@
 # 2. Simulação Paralela
 - Execução do arquivo main_runner.py (1. e 2. rodam ao mesmo tempo)
 
-## 3. Simulação Distribuída
+# 3. Simulação Distribuída
 Nota: Para executar, rode o servidor em um terminal e 2 clientes em outros 2 terminais.
 
 1. Rode o servidor: python distribuido_servidor.py")
