@@ -1,7 +1,7 @@
 # Caixeiro Viajante
 ## Grupo 1
 
-- [Link da apresentação | Canvas](https://www.canva.com/design/DAGrGRe-r6A/6boamFHYAyXPgriC0sj0mg/view?utm_content=DAGrGRe-r6A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h92ed00372f)
+- [Link da apresentação | Canvas](https://www.canva.com/design/DAGrGRe-r6A/BdnWc_At5BDaY2htG7hmtw/edit?utm_content=DAGrGRe-r6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 | Nomes                         | R.A     |
 |-------------------------------|---------|
