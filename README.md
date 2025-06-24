@@ -1,6 +1,8 @@
 # Caixeiro Viajante
 ## Grupo 1
 
+- [Link da apresentação | Canvas](https://www.canva.com/design/DAGrGRe-r6A/6boamFHYAyXPgriC0sj0mg/view?utm_content=DAGrGRe-r6A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h92ed00372f)
+
 | Nomes                         | R.A     |
 |-------------------------------|---------|
 | Pedro Augusto da Silva Morais | 2565935 |
@@ -20,5 +22,5 @@
 # 3. Simulação Distribuída
 Nota: Para executar, rode o servidor em um terminal e 2 clientes em outros 2 terminais.
 
-1. Rode o servidor: python distribuido_servidor.py")
-2. Rode 2 workers: python distribuido_cliente.py")
+1. Rode o servidor: python distribuido_servidor.py
+2. Rode os 2 workers: python distribuido_cliente.py
